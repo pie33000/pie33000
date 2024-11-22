@@ -13,6 +13,7 @@ class MachineLearningEngineer:
         self.name = "Pierrick Rugery"
         self.role = "Lead Machine Learning Engineer"
         self.language_spoken = ["🇫🇷", "🇺🇸"]
+        self.passion = "Exploring French cuisine, especially a Boeuf Bourguignon 🍷🍖"
         self.center_of_interest = [
             "Artificial Intelligence 🤖",
             "Generative AI 🌌",
