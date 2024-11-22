@@ -7,12 +7,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
 class MachineLearningEngineer:
 
     def __init__(self):
