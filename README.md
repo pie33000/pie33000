@@ -13,14 +13,14 @@ class MachineLearningEngineer:
         self.name = "Pierrick Rugery"
         self.role = "Lead Machine Learning Engineer"
         self.language_spoken = ["🇫🇷", "🇺🇸"]
-        self.passion = "Exploring French cuisine, especially a Boeuf Bourguignon 🍷🍖"
+        self.passion = "Exploring French cuisine, especially a Boeuf Bourguignon"
         self.center_of_interest = [
             "Artificial Intelligence 🤖",
-            "Generative AI 🌌",
-            "Robotics 🦾"
+            "Robotics 🦾",
+            "World Models 🌍".
         ]
-        self.current_project = "Developing Robotics solutions for the future 🚀"
-        self.location = "New York, NY 🗽"
+        self.current_project = "Developing Robotics solutions for the future."
+        self.location = "New York, NY"
 
     def say_hi(self):
         print("Welcome to my GitHub! Grab a coffee ☕ and explore my world of tech and innovation.")
